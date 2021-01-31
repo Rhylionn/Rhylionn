@@ -10,7 +10,7 @@
 ### 💬 Contact me:
 
 - Personnal website coming soon
-- [<img align="left" alt="Rhylionn's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"] Rhylionn#4288
+- [<img align="left" alt="Rhylionn's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />] Rhylionn#4288
 
 <br />
 
