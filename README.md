@@ -3,7 +3,7 @@
 ## I'm an engineering student in IT field
 
 - 📕 Working on website report extension
-- 👀 Currently learning React
+- 👀 Currently learning Node
 
 ---
 
