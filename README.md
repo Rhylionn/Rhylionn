@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
-<h4 align="center">French engineering student in cybersecurity</h4>
+<h4 align="center">Engineering student in cybersecurity</h4>
 
 - 🚀 I’m currently working on **cybersecurity projects**
-- 🧠 I’m currently learning **CEH**
+- 🧠 I’m currently training for **CEH Practical**
 - 💻 All of my projects are available at [https://thomasbd.com/](https://thomasbd.com/)
 
 <h3 align="left">Connect with me:</h3>
